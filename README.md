@@ -6,7 +6,7 @@ Este repositorio combina ingeniería de datos y visualización de negocios para:
 1.  **Automatizar** la extracción y limpieza de datos financieros desde la API de TMDB usando **Python**.
 2.  **Analizar** patrones de inversión y retorno (ROI) mediante visualizaciones interactivas en **Power BI**.
    
-# ¿Qué hace este script?
+## ¿Qué hace este script?
 1.  **Conecta** a la API de *The Movie Database* (TMDB).
 2.  **Busca** las películas más populares del momento.
 3.  **Investiga** (hace una segunda petición) los detalles financieros de cada película, ya que esa información no viene en la lista general.
@@ -14,7 +14,7 @@ Este repositorio combina ingeniería de datos y visualización de negocios para:
 5.  **Calcula** el Beneficio Neto (Ingresos - Gastos).
 6.  **Guarda** todo en un archivo CSV limpio listo para analizar.
 
-# Tecnologías
+## Tecnologías
 * **Python 3.12**
 * **Librerías:** `requests` (API), `csv` (Manejo de archivos), `time` (Rate limiting).
 * **Seguridad:** Uso de `.gitignore` para protección de API Keys
