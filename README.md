@@ -1,5 +1,5 @@
 # CineMetrics-ETL-Pipeline
-Pipeline automatizado de extracción, transformación y carga (ETL) en Python que consume la API de TMDB para generar datasets financieros de cine y analizar el ROI en Power BI.
+Pipeline automatizado de extracción, transformación y carga (ETL) en Python que consume la API de TMDB para generar datasets financieros de cine para su posterior análisis en Power BI.
 
 # ¿Qué hace este script?
 1.  **Conecta** a la API de *The Movie Database* (TMDB).
